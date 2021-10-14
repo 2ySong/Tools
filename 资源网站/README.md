@@ -1,0 +1,3 @@
+- 语言学习网站：https://www.zerotohero.ca/
+- 编程资源导航，鱼皮做的网站：https://www.code-nav.cn/
+- 考研信息网站【理工类】：小木虫：http://muchong.com/bbs/
